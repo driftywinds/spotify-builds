@@ -15,7 +15,7 @@ Repository for the releases of Spotify ReVanced builds compiled from ReVanced Ma
     height="75">](https://files.drifty.win/repo/)
 
 
-The options.json file has been altered for custom branding but all credits go to the ReVanced Team for the ReVanced patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
+All credits go to the ReVanced Team for the ReVanced patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
 
 NOTE: - These builds can NOT be installed alongside any other build of YT ReVanced since the package name is NOT unique to my builds. This means that you will have to uninstall any other version of Spotify you have installed before installing this.
 
