@@ -12,7 +12,7 @@ Repository for the releases of Spotify ReVanced builds compiled from ReVanced Ma
 &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/%22Get_it_on_F-droid%22_Badge.png"
     alt="Get it on F-Droid"
-    height="75">](https://files.drifty.win/repo/)
+    height="75">](https://fdroid.drifty.win/repo/)
 
 
 All credits go to the ReVanced Team for the ReVanced patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
