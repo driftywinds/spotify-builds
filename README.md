@@ -1,3 +1,6 @@
+> [!WARNING]
+> I don't have time or patience to keep up with the latest spotify patches or updates. This project is in archival mode now, I will not be releasing any more builds.
+
 # Spotify Revanced builds releases
 Repository for the releases of Spotify ReVanced builds compiled from ReVanced Manager.
 
